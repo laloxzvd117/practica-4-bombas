@@ -10,8 +10,6 @@ Sistema embebido de control y supervisión desarrollado con **dos microcontrolad
 
 * **Protección por Sobrecorriente (Guardamotor/Relevador):** Lógica implementada por software utilizando `millis()` para evaluar condiciones de sobrecarga con un umbral de tolerancia de 2 segundos antes del disparo/corte de seguridad.
 
-* **Comunicación Serial Robusta:** Enlace bidireccional asíncrono entre placas mediante Serial2 a 115200 baudios, y transmisión de datos de telemetría hacia un equipo de cómputo por puerto serial USB.
-
 * **Registro en Python (`practica.py`):** Captura y almacenamiento automático de los estados de las 4 bombas desde el puerto serial.
 
 ## 🛠️ Requisitos e Instalación de Hardware
