@@ -1,6 +1,6 @@
 # Practica: Control y Monitoreo de 4 bombas
 
-Sistema embebido de control y supervisión industrial desarrollado con **dos microcontroladores ESP32** (Maestro y Esclavo) comunicados vía UART (Serial2), diseñado para la gestión en tiempo real y protección de sobrecorriente ("Guardamotor") para un banco de 4 bombas de agua, complementado con un script de Python para el registro de datos en tiempo real.
+Sistema embebido de control y supervisión desarrollado con **dos microcontroladores ESP32** (Maestro y Esclavo) comunicados vía UART (Serial2), diseñado para la gestión en tiempo real y protección de sobrecorriente ("Relevador") para un banco de 4 bombas, complementado con un script de Python para el registro de datos en tiempo real.
 
 ## 🚀 Características Principales
 
